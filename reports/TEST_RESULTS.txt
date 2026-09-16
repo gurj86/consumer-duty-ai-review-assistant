@@ -1,0 +1,26 @@
+Executed locally on 2026-09-16
+Python 3.12.14
+Command: python -m unittest discover -s tests -v
+
+test_automatic_closure_rejected (test_demo.DemoTests.test_automatic_closure_rejected) ... ok
+test_blank_challenge_rejected (test_demo.DemoTests.test_blank_challenge_rejected) ... ok
+test_calendar_days_cross_year (test_demo.DemoTests.test_calendar_days_cross_year) ... ok
+test_duplicate_case_rejected (test_demo.DemoTests.test_duplicate_case_rejected) ... ok
+test_duplicate_evidence_rejected (test_demo.DemoTests.test_duplicate_evidence_rejected) ... ok
+test_empty_dataset_rejected (test_demo.DemoTests.test_empty_dataset_rejected) ... ok
+test_evidence_ids_do_not_prove_semantic_correctness (test_demo.DemoTests.test_evidence_ids_do_not_prove_semantic_correctness) ... ok
+test_full_export_labels_counts_and_hash (test_demo.DemoTests.test_full_export_labels_counts_and_hash) ... ok
+test_invalid_date_rejected (test_demo.DemoTests.test_invalid_date_rejected) ... ok
+test_known_date_intervals (test_demo.DemoTests.test_known_date_intervals) ... ok
+test_known_governance_totals (test_demo.DemoTests.test_known_governance_totals) ... ok
+test_metrics_follow_dataset_not_fixed_denominator (test_demo.DemoTests.test_metrics_follow_dataset_not_fixed_denominator) ... ok
+test_mismatched_timeline_rejected (test_demo.DemoTests.test_mismatched_timeline_rejected) ... ok
+test_missing_outcome_rejected (test_demo.DemoTests.test_missing_outcome_rejected) ... ok
+test_nonfictional_declaration_rejected (test_demo.DemoTests.test_nonfictional_declaration_rejected) ... ok
+test_reversed_timeline_rejected (test_demo.DemoTests.test_reversed_timeline_rejected) ... ok
+test_unknown_evidence_reference_rejected (test_demo.DemoTests.test_unknown_evidence_reference_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.006s
+
+OK

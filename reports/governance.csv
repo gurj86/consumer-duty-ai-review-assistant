@@ -1,0 +1,4 @@
+case_id,prepared_priority,status,open_gap_count,calendar_days,interval_meaning,content_origin,input_sha256
+PEN-001,High,Human review required,3,8,Calendar days between scheduled payment and confirmed receipt; not a compensation formula.,Prepared AI-assisted sample,39dac897dd8e6b33f9a99f36092a5c1a2fc527f2165f6dc23f9cc4faa7c6f164
+INV-001,Medium,Human review required,3,4,Calendar days from request receipt to execution; not an established avoidable-delay or redress period.,Prepared AI-assisted sample,39dac897dd8e6b33f9a99f36092a5c1a2fc527f2165f6dc23f9cc4faa7c6f164
+SUP-001,High,Human review required,3,,Not calculated,Prepared AI-assisted sample,39dac897dd8e6b33f9a99f36092a5c1a2fc527f2165f6dc23f9cc4faa7c6f164
