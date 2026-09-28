@@ -2,7 +2,7 @@
 
 **A personal portfolio project by Gurjit Kaila, built with AI assistance.**
 
-This demonstration shows a structured approach to investigating customer outcomes and challenging unsupported AI conclusions. It uses three entirely fictional case files and public FCA materials. It has not been deployed at work and is not endorsed by Square 4 Partners or the FCA.
+This demonstration shows a structured approach to investigating customer outcomes and challenging unsupported AI conclusions. It uses three entirely fictional case files and public FCA materials. 
 
 ## Start here
 
